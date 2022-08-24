@@ -1,0 +1,25 @@
+/**********************tag selector**************/
+/**/
+h1{
+  color: red;
+  font-size: 100px;
+}
+
+body{
+  background-color: rgb(155, 155, 155);
+}
+img{
+  height: 200px;
+}
+/**********************class selector**************/
+.bacon:hover{
+  background-color: green;
+}
+.brocally:hover{
+  background-color: red;
+}
+
+.circle{
+  border-radius: 100%;
+}
+/**********************id selector**************/
